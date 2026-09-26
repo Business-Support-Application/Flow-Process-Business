@@ -679,7 +679,7 @@
         <mxCell id="V2pYW8x0cpbwJp877Qbk-1" parent="rHUiTC6qCMw0WZEsnchl-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" value="selesai" vertex="1">
           <mxGeometry height="50" width="50" x="1730" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="CE-4KHRtW8HrkEnA1N36-3" parent="CE-4KHRtW8HrkEnA1N36-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#ffe6cc;strokeColor=light-dark(#000000,#000000);" value="Zona" vertex="1">
+        <mxCell id="CE-4KHRtW8HrkEnA1N36-3" parent="CE-4KHRtW8HrkEnA1N36-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#ffe6cc;strokeColor=light-dark(#000000,#000000);" value="SSTEX" vertex="1">
           <mxGeometry height="120" width="1810" x="20" y="240" as="geometry" />
         </mxCell>
         <mxCell id="TqOGrGcWGHGVfxHDYi2j-7" edge="1" parent="CE-4KHRtW8HrkEnA1N36-3" source="TqOGrGcWGHGVfxHDYi2j-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TqOGrGcWGHGVfxHDYi2j-10">
